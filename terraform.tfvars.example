@@ -1,2 +1,4 @@
-project_id = "fgs-joe-njie"
-region     = "us-central1"
+project_id    = "fgs-joe-njie"
+region        = "us-central1"
+gke_username  = "" 
+gke_num_nodes = ""
